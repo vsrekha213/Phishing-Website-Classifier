@@ -1,14 +1,14 @@
 # Phishing-Website-Classifier
 
 ## The objective of this project is to identify Phishing websites, these websites will replicate as similar to legitimate websites, hence stealing of users inforation is at the high rate.
-***    
-DATA SET DESCRIPTION :
- """index has 11055 unique values
-            having_IPhaving_IP_Address contains:			[-1  1]
-            URLURL_Length contains:			                [ 1  0 -1]
-            Shortining_Service contains:			        [ 1 -1]
-            having_At_Symbol contains:			            [ 1 -1]
-            double_slash_redirecting contains:			    [-1  1]
+
+## DATA SET DESCRIPTION :
+### index has 11055 unique values
+           1. having_IPhaving_IP_Address contains:			[-1  1]
+           2. URLURL_Length contains:			                [ 1  0 -1]
+           3. Shortining_Service contains:			        [ 1 -1]
+           4. having_At_Symbol contains:			            [ 1 -1]
+           5. double_slash_redirecting contains:			    [-1  1]
             Prefix_Suffix contains:			                [-1  1]
             having_Sub_Domain contains:			            [-1  0  1]
             SSLfinal_State contains:		            	[-1  1  0]
@@ -35,7 +35,7 @@ DATA SET DESCRIPTION :
             Links_pointing_to_page contains:			    [ 1  0 -1]
             Statistical_report contains:			        [-1  1]
             Result contains:			                    [-1  1]
-            """
+         
  
  According to the Data, "1,0,-1" represents,
     a. 1 means legitimate
