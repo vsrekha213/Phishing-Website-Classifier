@@ -37,12 +37,12 @@
             Result contains:			                    [-1  1]
          
  
- According to the Data, "1,0,-1" represents,
-    a. 1 means legitimate
-    b. 0 is suspicious
-    c. -1 is phishing
+ ## According to the Data, #*1,0,-1* represents,
+    1. 1 means legitimate
+    2. 0 is suspicious
+    3. -1 is phishing
     
- DATA SPREAD
+ ## DATA SPREAD
      1    6157
     -1    4898
     
