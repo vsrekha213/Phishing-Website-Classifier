@@ -45,6 +45,15 @@
  ## DATA SPREAD
      1    6157
     -1    4898
+  
+ ## DATA ANALYSIS
+      Check for imbalanced data: 
+ ![imb1](https://user-images.githubusercontent.com/65437198/110973102-cfc95f00-8382-11eb-8768-21160dddedf3.JPG)
+ 
+ ## SAMPLE PLOT ANALYSIS FOR ALL FEATURES
+ ![plo1](https://user-images.githubusercontent.com/65437198/110973306-1a4adb80-8383-11eb-8347-cfa5ed98d2e8.JPG)
+
+
     
  ## To use this source code :
     1. clone this repo
