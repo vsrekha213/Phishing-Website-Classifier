@@ -37,7 +37,7 @@
             Result contains:			                    [-1  1]
          
  
- ## According to the Data, #*1,0,-1* represents,
+ ## According to the Data, *1,0,-1* represents,
     1. 1 means legitimate
     2. 0 is suspicious
     3. -1 is phishing
@@ -46,7 +46,7 @@
      1    6157
     -1    4898
     
- To use this source code :
+ # To use this source code :
     1. clone this repo
     2. First install requiremnts.txt file and before that ensure to create conda environment
     3. Then makesure the data is in loader module
