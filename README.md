@@ -1,8 +1,7 @@
 # Phishing-Website-Classifier
-***
-T## he objective of this project is to identify Phishing websites, these websites will replicate as similar to legitimate websites, hence stealing of users inforation is at the high rate.
 
-    
+## The objective of this project is to identify Phishing websites, these websites will replicate as similar to legitimate websites, hence stealing of users inforation is at the high rate.
+***    
 DATA SET DESCRIPTION :
  """index has 11055 unique values
             having_IPhaving_IP_Address contains:			[-1  1]
