@@ -1,6 +1,6 @@
 # Phishing-Website-Classifier
 
-## The objective of this project is to identify Phishing websites, these websites will replicate as similar to legitimate websites, hence stealing of users inforation is at the high rate.
+### The objective of this project is to identify Phishing websites, these websites will replicate as similar to legitimate websites, hence stealing of users inforation is at the high rate.
 
 ## DATA SET DESCRIPTION :
 ### index has 11055 unique values
@@ -46,7 +46,7 @@
      1    6157
     -1    4898
     
- # To use this source code :
+ ## To use this source code :
     1. clone this repo
     2. First install requiremnts.txt file and before that ensure to create conda environment
     3. Then makesure the data is in loader module
