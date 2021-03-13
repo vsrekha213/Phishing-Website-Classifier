@@ -48,10 +48,7 @@
   ## DENTIFICATION OF PHISHING WEBSITE
      1.	Using IP address : If in the address bar instead of domain name if IP is appended then it is phishing website.
 
-     2.	Long URL : Along with domain name a long redirection URL will be appended.
-	One of the survey says if URL length < 54 it is legitimate website,
-	If URL length >= 54 and <=75 then it is suspicious one, 
-	otherwise the website will be phishing website
+     2.	Long URL : Along with domain name a long redirection URL will be appended.One of the survey says if URL length < 54 it is legitimate website,If URL length >= 54 and                    <=75 then it is suspicious one, 	otherwise the website will be phishing website
      3.	Small URL 
      4.	Redirection using @ rate symbol and //
 
