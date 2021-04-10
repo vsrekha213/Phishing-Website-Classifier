@@ -67,4 +67,4 @@
     2. First install requiremnts.txt file and before that ensure to create conda environment
     3. Then makesure the data is in loader module
     4. Run main.py file and with the built model future prediction can be done
-    5. To do prediction download 'finalized_model.sav' 
+    5. To do prediction download 'finalized_model.sav' {you can directly uses this file for prediction}
