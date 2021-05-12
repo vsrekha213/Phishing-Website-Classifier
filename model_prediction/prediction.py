@@ -2,6 +2,7 @@ from sklearn.metrics import accuracy_score,confusion_matrix,classification_repor
 from sklearn.metrics import classification_report
 
 class Prediction:
+    #module for final model prediction
 
     def pred_model(self,best_model,x_train, x_test, y_train, y_test):
         #print(best_model)
